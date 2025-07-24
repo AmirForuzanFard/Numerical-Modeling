@@ -1,4 +1,4 @@
-%% Center-pivot Irrigation - Problem 2 - SprinklerCamData_CurveFitting
+%% Center-pivot Irrigation - Problem 2 - Sprinkler and Camera Data Curve Fitting
 % Author: Amir Foruzanfard
 % Version: 1.0
 % Copyright: © 2025, Amir Foruzanfard
@@ -6,7 +6,7 @@
 % This code is licensed under the BSD 3-Clause License. See the LICENSE file for details.
 % For details, visit: https://opensource.org/licenses
 
-% Description: Curve fitting to the sprinkler modifiers and camera theta angles data.
+% Description: The data for the sprinkler modifiers and the camera theta angles are fitted using the curve fitting function.
 
 % clear workspace
 clc; clear; close all
