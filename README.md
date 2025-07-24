@@ -1,8 +1,13 @@
-# Numerical-Modeling-of-Engineering-Problems
+# Numerical Modeling of Engineering Problems
 
+## Contents
 
-## Description
+- [Project: Center-Pivot Irrigation System](#project-center-pivot-irrigation-system)
+- [Authors](#authors)
+- [Software Requirements](#software-requirements)
+- [License](#license)
 
+## Project: Center-Pivot Irrigation System
 This repository contains MATLAB code developed to solve four distinct problems related to a customized center-pivot irrigation system. The aim is to apply numerical techniques to model this engineering system involving fundamental concepts of fluid mechanics and heat transfer.
 The numerical methods employed include the following topics:
 
@@ -13,7 +18,7 @@ Solution of systems of linear algebraic equations, interpolation, curve fitting,
 Amir Foruzanfard
 
 
-## Software Rquirements
+## Software Requirements
 MATLAB
 
 
