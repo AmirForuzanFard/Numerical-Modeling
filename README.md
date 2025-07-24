@@ -1,4 +1,4 @@
-# Project Title: Numerical-Modeling-of-Engineering-Problems
+# Numerical-Modeling-of-Engineering-Problems
 
 
 ## Description
